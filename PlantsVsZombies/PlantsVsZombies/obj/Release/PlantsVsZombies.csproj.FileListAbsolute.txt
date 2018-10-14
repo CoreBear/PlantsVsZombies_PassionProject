@@ -1,0 +1,5 @@
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\bin\Release\PlantsVsZombies.exe
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\bin\Release\PlantsVsZombies.pdb
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Release\PlantsVsZombies.csproj.CoreCompileInputs.cache
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Release\PlantsVsZombies.exe
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Release\PlantsVsZombies.pdb

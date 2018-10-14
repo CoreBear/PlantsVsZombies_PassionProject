@@ -1,0 +1,12 @@
+C:\Users\corym\source\repos\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.csprojResolveAssemblyReference.cache
+C:\Users\corym\source\repos\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.csproj.CoreCompileInputs.cache
+C:\Users\corym\source\repos\PlantsVsZombies\PlantsVsZombies\bin\Debug\PlantsVsZombies.exe
+C:\Users\corym\source\repos\PlantsVsZombies\PlantsVsZombies\bin\Debug\PlantsVsZombies.pdb
+C:\Users\corym\source\repos\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.exe
+C:\Users\corym\source\repos\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.pdb
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\bin\Debug\PlantsVsZombies.exe
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\bin\Debug\PlantsVsZombies.pdb
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.csprojResolveAssemblyReference.cache
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.csproj.CoreCompileInputs.cache
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.exe
+C:\Users\corym\Desktop\Portfolio\PlantsVsZombies\PlantsVsZombies\obj\Debug\PlantsVsZombies.pdb
